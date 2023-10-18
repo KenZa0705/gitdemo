@@ -1,1 +1,4 @@
 --SQL Reference
+
+--DATABASE CREATE DATABASE DB_name;
+
